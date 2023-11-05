@@ -1,0 +1,72 @@
+*{
+    background-color: #164863;
+    text-align: center;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Press Start 2P", "coursive";
+    margin: 0;
+}
+
+body{
+    height: 100%;
+}
+
+h1{
+    font-size: 4rem;
+    border: none;
+    text-shadow: 2px 3px #9BBEC8;
+    margin: 50px auto;
+    cursor: pointer;
+}
+
+button{
+    display: inline-block;
+    align-items: center;
+    padding: 15px;
+    background-color: #9BBEC8;
+    border-radius: 20px;
+    text-shadow: 2px 3px #9BBEC8;
+    margin: 40px auto;
+    cursor: pointer;
+
+}
+
+button:hover{
+    background-color: #286c90;
+    transition: 0.2s;
+}
+
+.container{
+    height: 80%;
+    width: 80%;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.jogador1{
+    width: 40%;
+    text-align: center;
+    display: inline-block;
+    margin: 5px auto;
+    padding: 5px;
+}
+
+.jogador2{
+    width: 40%;
+    text-align: center;
+    display: inline-block;
+    margin: 5px auto;
+    padding: 5px;
+}
+
+h2{
+    padding: 10px;
+    font-size: 1.5rem;
+}
+
+h3{
+    height: 20%;
+    margin: 15px auto;
+    font-size: 1rem;
+
+}
